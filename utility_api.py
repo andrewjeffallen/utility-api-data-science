@@ -20,7 +20,6 @@ import io
 import gzip
 import sys
 from datetime import date
-from src.aws import *
 
 
 def get_active_meters(API_TOKEN):
