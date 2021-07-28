@@ -1,22 +1,13 @@
-import requests
-import json
 import time
-import numpy as np
-import pandas as pd
 import boto3
 
-import io
-from pandas import json_normalize
 import json, requests, urllib, io
 
 from pandas.io.json import json_normalize
 
-import numpy
+import numpy as np
 import pandas as pd
 import os
-import json
-import boto3
-import io
 import gzip
 import sys
 from datetime import date
